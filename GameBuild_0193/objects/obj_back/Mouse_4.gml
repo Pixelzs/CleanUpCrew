@@ -1,0 +1,1 @@
+TransitionStart(MainMenu,Transition_FadeOut,Transition_FadeIn);

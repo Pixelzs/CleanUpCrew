@@ -1,0 +1,1 @@
+TransitionStart(room,Transition_FadeOut,Transition_FadeIn);
