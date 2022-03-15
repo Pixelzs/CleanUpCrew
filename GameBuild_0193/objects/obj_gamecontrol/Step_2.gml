@@ -17,7 +17,7 @@ else{
 
 
 
-if(_pause) && (!instance_exists(obj_transition)) && (!instance_exists(obj_start))
+if(_pause) && (!instance_exists(obj_transition)) && (!instance_exists(obj_button_start))
 {
 	global.gamePause=!global.gamePause;
 	if global.gamePause

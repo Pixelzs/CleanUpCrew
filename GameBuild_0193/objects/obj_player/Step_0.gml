@@ -131,7 +131,7 @@ else {
 				else{
 					//If is hurt, shake the screen
 					sprite=spr_player_hurt;
-					with(obj_core)
+					with(obj_gamecontrol)
 					{
 						shakelength = 15;
 						shake=true;
@@ -169,7 +169,7 @@ else {
 				}
 				else{
 					sprite=spr_player_hurt;
-					with(obj_core)
+					with(obj_gamecontrol)
 					{
 						shakelength = 15;
 						shake=true;
@@ -208,7 +208,7 @@ else {
 				}
 				else{
 					sprite=spr_player_hurt_down;
-					with(obj_core)
+					with(obj_gamecontrol)
 					{
 						shakelength = 15;
 						shake=true;
@@ -242,7 +242,7 @@ else {
 				}
 				else{
 					sprite=spr_player_hurt_up;
-					with(obj_core)
+					with(obj_gamecontrol)
 					{
 						shakelength = 15;
 						shake=true;

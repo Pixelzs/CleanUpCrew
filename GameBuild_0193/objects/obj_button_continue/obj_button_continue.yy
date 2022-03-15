@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Options",
-    "path": "sprites/Options/Options.yy",
+    "name": "Continue",
+    "path": "sprites/Continue/Continue.yy",
   },
   "solid": false,
   "visible": true,
@@ -33,7 +33,7 @@
     "path": "folders/Objects/Buttons.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_options",
+  "name": "obj_button_continue",
   "tags": [],
   "resourceType": "GMObject",
 }

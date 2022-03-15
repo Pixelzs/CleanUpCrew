@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Restart",
-    "path": "sprites/Restart/Restart.yy",
+    "name": "MainMenu66",
+    "path": "sprites/MainMenu66/MainMenu66.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,7 +24,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -33,7 +33,7 @@
     "path": "folders/Objects/Buttons.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_restart",
+  "name": "obj_button_mainmenu",
   "tags": [],
   "resourceType": "GMObject",
 }

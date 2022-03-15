@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Resume",
-    "path": "sprites/Resume/Resume.yy",
+    "name": "spr_newgame",
+    "path": "sprites/spr_newgame/spr_newgame.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,7 +24,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -33,7 +33,7 @@
     "path": "folders/Objects/Buttons.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_resume",
+  "name": "obj_button_start",
   "tags": [],
   "resourceType": "GMObject",
 }

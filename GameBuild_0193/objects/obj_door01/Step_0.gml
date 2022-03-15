@@ -17,7 +17,7 @@ if(open==true)
 	{
 		audio_play_sound(Unlock_SFX,1,0);
 		once=false;
-		with(obj_core)
+		with(obj_gamecontrol)
 		{
 			shake=true;
 		}

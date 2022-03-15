@@ -39,7 +39,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_core",
+  "name": "obj_gamecontrol",
   "tags": [],
   "resourceType": "GMObject",
 }

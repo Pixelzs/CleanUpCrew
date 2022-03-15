@@ -12,7 +12,7 @@
 //	alarm[0]=10;
 //}
 //HUD
-if (!global.gamePause) && (!instance_exists(obj_start)) && (!instance_exists(obj_end))
+if (!global.gamePause) && (!instance_exists(obj_button_start)) && (!instance_exists(obj_end))
 {
 	draw_set_font(fnt_hud);
 	draw_set_color(c_white);

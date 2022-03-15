@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Continue",
-    "path": "sprites/Continue/Continue.yy",
+    "name": "Resume",
+    "path": "sprites/Resume/Resume.yy",
   },
   "solid": false,
   "visible": true,
@@ -33,7 +33,7 @@
     "path": "folders/Objects/Buttons.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_continue",
+  "name": "obj_button_resume",
   "tags": [],
   "resourceType": "GMObject",
 }
